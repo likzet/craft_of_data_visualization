@@ -1,0 +1,11 @@
+Use a plot to tell about your master thesis or about some insight about data from UCA datasets repository https://archive.ics.uci.edu/ml/index.php (Links to an external site.)Links to an external site.
+
+Follow the main principles of plot design, make message clear, so other students can understand it. 
+
+The format is a pdf or png figure with a caption. The format of the assignment is peer review: you grade other students. Please, do it in a timely and accurate manner. 
+
+Criteria:
+
+50 % - quality of presentation (how well the plot is produced)
+
+50 % - clarity of presentation (is the idea of the plot clear from the plot and caption, is the message of the plot easy to catch?)
