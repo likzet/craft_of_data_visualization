@@ -2,10 +2,10 @@
 
 This repo supplements Craft of data visualization with Python course taught at Skoltech @january'19.
 
-# General info
+## General info
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/likzet/craft_of_data_visualization/issues)
 
-# Syllabus
+## Syllabus
 - __day 1__ Intro to visualization and matplotlib
   - [ ] Lecture: Intro to data visualization with Python
   - [ ] Seminar: Python plotting libraries, matplotlib
@@ -30,8 +30,13 @@ This repo supplements Craft of data visualization with Python course taught at S
   - [ ] Lecture: Visualization of big and geospatial data
   - [ ] Seminar: Visualization of time series and time series models
   - [ ] Homework 5!
-  
-# Contributors & course staff
+
+## Main sources used
+* Knaflic, C.N., 2015. Storytelling with data: A data visualization guide for business professionals. John Wiley & Sons.
+* Claus O. Wilke, 2018. [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html)
+* Tutorial for [bokeh](https://github.com/bokeh/bokeh-notebooks/tree/master/tutorial)
+
+## Contributors & course staff
 Course materials and teaching performed by
 - [Alexey Zaytsev](https://github.com/likzet/) - all lectures and some seminars
 - [Arseniy Bozhenko](https://github.com/colinlaney) - notebooks for seminars
