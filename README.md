@@ -6,27 +6,27 @@ This repo supplements Craft of data visualization with Python course taught at S
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/likzet/craft_of_data_visualization/issues)
 
 ## Syllabus
-- __day 1__ Intro to visualization and matplotlib
+- __Day 1__ Intro to visualization and matplotlib
   - [ ] Lecture: Intro to data visualization with Python
   - [ ] Seminar: Python plotting libraries, matplotlib
   - [ ] Homework 1!
 
-- __day 2__ Advanced plotting
+- __Day 2__ Advanced plotting
   - [ ] Seminar: Seaborn
   - [ ] Seminar: Interactive data visualization
   - [ ] Homework 2!
   
-- __day 3__ Plotting in ML
+- __Day 3__ Plotting in ML
   - [ ] Lecture: How to visualize ML models and their quality
   - [ ] Seminar: How to implement all of this in Python
   - [ ] Homework 3!
   
-- __day 4__ Dimension reduction for visualization
+- __Day 4__ Dimension reduction for visualization
   - [ ] Lecture: Intro into Dimension reduction
   - [ ] Seminar: An example of dimension reduction
   - [ ] Homework 4!
   
-- __day 5__ Advanced visualization
+- __Day 5__ Advanced visualization
   - [ ] Lecture: Visualization of big and geospatial data
   - [ ] Seminar: Visualization of time series and time series models
   - [ ] Homework 5!
@@ -40,4 +40,4 @@ This repo supplements Craft of data visualization with Python course taught at S
 Course materials and teaching performed by
 - [Alexey Zaytsev](https://github.com/likzet/) - all lectures and some seminars
 - [Arseniy Bozhenko](https://github.com/colinlaney) - notebooks for seminars
-- [Ivan Nazarov](https://github.com/ivannz) - some help during the course preparation
+- [Ivan Nazarov](https://github.com/ivannz) - help during the course preparation
