@@ -1,6 +1,6 @@
 # Craft of data visualization
 
-This repo supplements Craft of data visualization with Python course taught at Skoltech @january'19.
+This repo supplements Craft of data visualization with Python course taught @january'19.
 
 ## General info
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/likzet/craft_of_data_visualization/issues)
